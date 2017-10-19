@@ -1,5 +1,7 @@
 # Project
 
+각 프로젝트의 개요및 설명은 Summary에 저장
+
 Bird_Classification	
 
 CPU_Simulation	
