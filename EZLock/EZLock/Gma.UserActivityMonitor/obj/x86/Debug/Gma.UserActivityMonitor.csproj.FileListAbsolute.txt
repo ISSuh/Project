@@ -1,0 +1,12 @@
+C:\Users\junhee\Documents\Visual Studio 2012\Projects\테스트용 윈폼\Gma.UserActivityMonitor\obj\x86\Debug\Gma.UserActivityMonitor.csprojResolveAssemblyReference.cache
+C:\Users\junhee\Documents\Visual Studio 2012\Projects\테스트용 윈폼\Gma.UserActivityMonitor\bin\x86\Debug\Gma.UserActivityMonitor.dll
+C:\Users\junhee\Documents\Visual Studio 2012\Projects\테스트용 윈폼\Gma.UserActivityMonitor\bin\x86\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\junhee\Documents\Visual Studio 2012\Projects\테스트용 윈폼\Gma.UserActivityMonitor\bin\x86\Debug\Gma.xml
+C:\Users\junhee\Documents\Visual Studio 2012\Projects\테스트용 윈폼\Gma.UserActivityMonitor\obj\x86\Debug\Gma.UserActivityMonitor.dll
+C:\Users\junhee\Documents\Visual Studio 2012\Projects\테스트용 윈폼\Gma.UserActivityMonitor\obj\x86\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\SIS\Downloads\테스트용 윈폼\Gma.UserActivityMonitor\bin\x86\Debug\Gma.UserActivityMonitor.dll
+C:\Users\SIS\Downloads\테스트용 윈폼\Gma.UserActivityMonitor\bin\x86\Debug\Gma.UserActivityMonitor.pdb
+C:\Users\SIS\Downloads\테스트용 윈폼\Gma.UserActivityMonitor\bin\x86\Debug\Gma.xml
+C:\Users\SIS\Downloads\테스트용 윈폼\Gma.UserActivityMonitor\obj\x86\Debug\Gma.UserActivityMonitor.csprojResolveAssemblyReference.cache
+C:\Users\SIS\Downloads\테스트용 윈폼\Gma.UserActivityMonitor\obj\x86\Debug\Gma.UserActivityMonitor.dll
+C:\Users\SIS\Downloads\테스트용 윈폼\Gma.UserActivityMonitor\obj\x86\Debug\Gma.UserActivityMonitor.pdb

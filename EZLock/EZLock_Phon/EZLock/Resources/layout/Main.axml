@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:orientation="vertical"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/linearLayout1">
+    <LinearLayout
+        p1:orientation="vertical"
+        p1:minWidth="25px"
+        p1:minHeight="25px"
+        p1:layout_width="match_parent"
+        p1:layout_height="49.0dp"
+        p1:id="@+id/linearLayout3"
+        p1:layout_marginBottom="0.0dp">
+        <TextView
+            p1:text="EZLock"
+            p1:textAppearance="?android:attr/textAppearanceLarge"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/textView2" />
+    </LinearLayout>
+    <LinearLayout
+        p1:orientation="vertical"
+        p1:layout_width="match_parent"
+        p1:layout_height="157.5dp"
+        p1:id="@+id/linearLayout2"
+        p1:minWidth="25px"
+        p1:minHeight="25px"
+        p1:layout_marginTop="0.0dp" />
+    <LinearLayout
+        p1:orientation="vertical"
+        p1:minWidth="25px"
+        p1:minHeight="25px"
+        p1:layout_width="match_parent"
+        p1:layout_height="100.5dp"
+        p1:id="@+id/linearLayout3"
+        p1:layout_marginBottom="6.0dp">
+        <TextView
+            p1:text="ID"
+            p1:textAppearance="?android:attr/textAppearanceMedium"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/textView1"
+            p1:layout_marginBottom="18.0dp" />
+        <AutoCompleteTextView
+            p1:layout_width="match_parent"
+            p1:layout_height="51.5dp"
+            p1:id="@+id/UserID"
+            p1:layout_marginRight="0.0dp"
+            p1:layout_marginBottom="11.5dp" />
+    </LinearLayout>
+    <LinearLayout
+        p1:orientation="vertical"
+        p1:minWidth="25px"
+        p1:minHeight="25px"
+        p1:layout_width="match_parent"
+        p1:layout_height="100.5dp"
+        p1:id="@+id/linearLayout3">
+        <TextView
+            p1:text="PW"
+            p1:textAppearance="?android:attr/textAppearanceMedium"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/textView1"
+            p1:layout_marginBottom="18.0dp" />
+        <EditText
+            p1:inputType="textPassword"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/UserPW"
+            p1:layout_marginBottom="0.0dp"
+            p1:layout_marginTop="0.0dp" />
+    </LinearLayout>
+    <LinearLayout
+        p1:orientation="vertical"
+        p1:minWidth="25px"
+        p1:minHeight="25px"
+        p1:layout_width="match_parent"
+        p1:layout_height="56.5dp"
+        p1:id="@+id/linearLayout4"
+        p1:layout_marginBottom="0.0dp"
+        p1:layout_marginTop="0.0dp">
+        <TextView
+            p1:text="PC Num"
+            p1:textAppearance="?android:attr/textAppearanceMedium"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/textView1"
+            p1:layout_marginBottom="18.0dp" />
+    </LinearLayout>
+    <LinearLayout
+        p1:orientation="vertical"
+        p1:minWidth="25px"
+        p1:minHeight="25px"
+        p1:layout_width="match_parent"
+        p1:layout_height="59.5dp"
+        p1:id="@+id/linearLayout5">
+        <AutoCompleteTextView
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/PCID"
+            p1:layout_marginBottom="0.0dp" />
+    </LinearLayout>
+    <LinearLayout
+        p1:orientation="vertical"
+        p1:minWidth="25px"
+        p1:minHeight="25px"
+        p1:layout_width="match_parent"
+        p1:layout_height="59.5dp"
+        p1:id="@+id/linearLayout5">
+        <Button
+            p1:text="Connect"
+            p1:id="@+id/Connect_button"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

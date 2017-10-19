@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="theme_black_notitlebar_background">#ffffebee</color><color name="theme_devicedefault_light_dialog_background">#ffffffff</color>
+  <style name="Theme.Custom" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+    <item name="android:colorBackground">@color/theme_devicedefault_light_dialog_background</item>
+    <item name="android:windowBackground">?android:attr/colorBackground</item>
+  </style>
+<style name="Theme.Custom1" parent="@android:style/Theme.Black.NoTitleBar"><item name="android:colorBackground">@color/theme_black_notitlebar_background</item><item name="android:windowBackground">?android:attr/colorBackground</item><item name="android:colorPrimary">#ffe57373</item><item name="android:colorButtonNormal">#ffffcc80</item></style><style name="Theme.Custom2" parent="@android:style/Theme.Black.NoTitleBar"><item name="android:colorBackground">@color/theme_black_notitlebar_background</item><item name="android:windowBackground">?android:attr/colorBackground</item><item name="android:textColorPrimary">#ffffffff</item></style><style name="Theme.Custom3" parent="@android:style/Theme.Black.NoTitleBar"><item name="android:colorBackground">@color/theme_black_notitlebar_background</item><item name="android:windowBackground">?android:attr/colorBackground</item></style></resources>
