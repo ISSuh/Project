@@ -1,17 +1,17 @@
 # Project
 
-Bird_Classification	Create
+Bird_Classification	
 
 CPU_Simulation	
 
-Car_Recommand	Create 
+Car_Recommand	
 
-Chart	Create 
+Chart	
 
-EZLock	Create 
+EZLock	
 
 Ecall-System
 
-Sobel_Edge_detect	Create
+Sobel_Edge_detect	
 
 Stop_and_Wait_Simulation
